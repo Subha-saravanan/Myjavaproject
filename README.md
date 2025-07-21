@@ -7,27 +7,48 @@ This repo is **neat**, **sorted**, and loaded with 💣 logic-building challenge
 ## 📁 Folder Structure
 
 Myjavaproject/
+
 ├── Arrays/
+
 │ ├── TwoSum.java
+
 │ ├── RotateArray.java
+
 │ ├── PermutationCheck.java
+
 │ ├── SingleNumberFinder.java
+
 │ ├── MaxValueFinder.java
+
 │ ├── GreaterThanbyTwo.java
+
 │ ├── RemoveDuplicates.java
+
 │ ├── SortColors.java
+
 │ ├── BestTimeToBuySell.java
+
 │ ├── AlternateSignsArranger.java
+
 │ ├── RemainingValueFinder.java
+
 │ └── ...and more! 🔥
+
 ├── LinkedList/
 │ ├── OddEvenAbsoluteof.java
+
 │ ├── reverselist.java
+
 │ ├── CheckNthTerm.java
+
 │ ├── SquareTermChecker.java
+
 │ ├── Stream.java
+
 │ ├── StreamwithString.java
+
 │ └── ...you guessed it—MORE! 😁
+
 └── ...More folders coming soon like Strings, Trees, DP, and Recursion! 🌳
 
 yaml
